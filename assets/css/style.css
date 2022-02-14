@@ -1126,3 +1126,9 @@ section {
 #footer .credits a {
   color: #34b7a7;
 }
+#Frame
+{
+  height: 498px;
+  width: 500px;
+  margin: auto;
+}
